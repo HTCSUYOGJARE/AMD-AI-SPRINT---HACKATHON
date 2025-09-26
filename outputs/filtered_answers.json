@@ -1,0 +1,372 @@
+[
+    {
+        "answer": "D",
+        "reasoning": "Alma is Vanessa's mother, as she is accompanied by her son Kevin and Vanessa. Helen is eager to see her niece Vanessa, meaning Helen is Vanessa's mother or aunt. Since Alma is Vanessa's mother, Helen must be Alma's daughter. Therefore, Alma is Helen's daughter."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Assume Olga is honest. Then Imani is reliable. If Imani is reliable, then Dagmar being truthful implies Marco is honest. If Marco is honest, then Dagmar being honest implies Olga is unreliable. This contradiction shows Olga cannot be honest. Thus, Olga is the only consistent honest person."
+    },
+    null,
+    {
+        "answer": "D",
+        "reasoning": "Assume Xara is honest. Then Yves being honest implies Nico is dishonest. But Yves says Xara is honest, which would make Yves honest. This creates a contradiction if Nico is dishonest. If Yves is dishonest, his statement that Xara is honest is false, making Xara dishonest. Nico's statement would then be true, but this contradicts the assumption. No consistent assignment exists, so none are honest."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Claire says Nico is honest. If Claire is honest, then Nico is honest. Nico says if Claire is honest, then Yves is dishonest. If Nico is honest, then Yves is dishonest. Since Claire is honest, Nico is honest, making Yves dishonest. Xara says Claire is trustworthy, but this is not necessarily true. Thus, Claire is the honest individual."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Newton's dad is Ernest. Newton has a brother, who has a sister named Kelly. Since the brother is Newton's sibling, and Newton's father is Ernest, Ernest is also the father of the brother and thus the father of Kelly. Therefore, Ernest is Kelly's father."
+    },
+    {
+        "answer": "D",
+        "reasoning": "If Ping is truthful, then Igor must be truthful (as per Ping's statement). But Igor says Nami is dishonest, and Nami says Ping is a liar. If Nami is dishonest, her statement is false, meaning Ping is truthful. This is consistent. Therefore, Ping is the truth-teller."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Assume Tao is truthful. Then, if Gin is honest, Astrid is truthful. If Astrid is truthful, her statement implies Tao is reliable, which would make Gin untrustworthy. This creates a consistent scenario where only Tao is truthful. Otto's claim that Gin lies is false, and Astrid's statement is true under this assumption. Thus, Tao is the only consistent truthful individual."
+    },
+    {
+        "answer": "B",
+        "reasoning": "If Gabriel is truthful, then Petra is untrustworthy (Lei). Yves says Gabriel lies. If Gabriel lies, then his statement is false, so Petra is trustworthy. Petra says if Gabriel is truthful, then Lei is honest. Since Yves says Gabriel lies, Petra's statement is false, making Petra untrustworthy. Thus, Lei is honest."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Andy has a brother, who has a sister named Sandy. Sandy's father is Matthew, who is the son of Scott. Therefore, Scott is the father of Matthew, making him the grandfather of Andy. Hence, Andy is the grandchild of Scott, making Scott Andy's grandfather."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Kesi says Klaus is honest. If Kesi is honest, then Klaus is honest. Klaus says if Lars is truthful, then Kesi is dishonest. Goro says if Lars is truthful, then Kesi is honest. If Lars is truthful, there is a contradiction between Klaus and Goro. Thus, Lars cannot be truthful. If Kesi is honest, then Klaus is honest, and the statements hold without contradiction. Therefore, Kesi is honest."
+    },
+    {
+        "answer": "D) Olga",
+        "reasoning": "If Olga is truthful, then Feng is honest. If Feng is honest, his statement \"If Olga is reliable, then Mei is dishonest\" must be true. For this implication to hold, if Olga is reliable (which she is, as she claims Feng is honest and that would make her truthful), then Mei must be dishonest. This makes Mei's claim that Jira is truthful false, so Jira is not truthful. Thus, Olga is the only one whose truthfulness is consistent with the others' statements."
+    },
+    null,
+    {
+        "answer": "D",
+        "reasoning": "Assume Dolores is truthful. Then Hugo is dishonest (from her statement). But Rose says Hugo is dishonest, which would be true, making Rose truthful. However, Hugo says Dolores lies, which would be false if Hugo is dishonest. This creates a contradiction. If Hugo is truthful, his statement that Dolores lies would be true, making Dolores dishonest. But then Rose's statement that Hugo is dishonest would be false, making Rose dishonest. No consistent truth-teller exists, so the answer is D."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Assume Gloria is honest. Then Vera's statement implies Iko is honest. Iko's statement would then imply Vera is a liar, creating a contradiction. If Iko is honest, his statement must be true, so Gloria being honest implies Vera is a liar. This is consistent if Iko is honest. Thus, Iko is the honest one."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Carmen's statement is a conditional that must be true if Nico is honest. If Nico is honest, then Celia is truthful. Celia says Carmen is untrustworthy, which would make Celia a liar if Carmen is truthful. Lamin calls Celia untrustworthy, which would make Lamin a liar if Celia is truthful. Only Carmen's statement holds true under logical consistency."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Nils says Demi is reliable, but this doesn't confirm honesty. Ivy says if Nils is honest, then Demi is honest. Demi says Ivy is honest. If all were honest, statements would hold, but no statement confirms honesty beyond assumptions. Thus, no one is definitively honest."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Xola says Gazi is untruthful. If Xola is reliable, then Gazi is untruthful. Iris says if Maia is truthful, then Xola is truthful. Gazi says if Maia is truthful, then Xola is reliable. If Xola is reliable, then Gazi's statement is true, making Maia truthful. This makes Iris's statement true, confirming Xola is truthful. Thus, Xola is reliable."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Assume Nina is truthful. Then Otto is truthful. But Nuru says Nina is untruthful, which would make Nuru a liar. Otto's statement would then be true, as it would mean if Nina is truthful, Nuru is a liar, which is consistent. Thus, Otto is truthful. If Nina were a liar, Otto's statement would be false, making Nuru truthful, but this creates contradictions. Hence, Otto is the trustworthy person."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Lois is John's sister, as she is always around him. John has a daughter named Renee. Therefore, Lois is the mother of Renee's husband, making her Renee's father-in-law."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Martha is Renee's mother, making Robert Renee's brother. Therefore, Robert is Martha's son. Since Renee is Martha's daughter, Robert is Martha's grandson. Thus, the correct answer is B) Granddaughter, as Robert is Renee's brother and Renee is Martha's daughter, making Robert Martha's grandson."
+    },
+    {
+        "answer": "A",
+        "reasoning": "Claudia is Sandy's aunt because Matthew is Sandy's father and Claudia is Matthew's daughter. Therefore, Claudia is Sandy's mother's sister, making her Sandy's aunt."
+    },
+    null,
+    null,
+    {
+        "answer": "C",
+        "reasoning": "Sergio says if Lars is honest, then Maia is honest. Maia says Lars is honest. Lars says Sergio is dishonest. If Lars is honest, then Maia is honest (per Sergio), but Lars says Sergio is dishonest, which would make Sergio truthful. This creates a contradiction. If Lars is dishonest, his statement is false, making Sergio honest. But Sergio's statement would then be true, implying Maia is honest. However, Maia's statement that Lars is honest would be false, making her dishonest. Thus, no one is trustworthy."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Latisha is the mother of Helen and the mother of Bret. Therefore, Bret is the son of Latisha and Helen's mother. Hence, Bret is Helen's son, making him her grandson."
+    },
+    {
+        "answer": "D",
+        "reasoning": "If Femi is truthful, then Diego is truthful. If Diego is truthful, then Francine is untrustworthy. But Francine says Femi is dishonest, creating a contradiction. If Femi is dishonest, Diego's statement is false, making Francine truthful. However, this also creates contradictions. Thus, no one is consistently truthful, so the answer is D."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Latisha is the mother of Scott, who is the father of Belinda and Crystal. Therefore, Latisha is the grandmother of Crystal. The correct answer is B) Grandmother."
+    },
+    {
+        "answer": "D",
+        "reasoning": "If Lin is truthful, then Chen is a liar (as per Lin's statement). If Chen is a liar, then Vega is truthful. But Vega says Chen is a liar, which would make Vega truthful. This creates a contradiction. If Lin is lying, then Chen is honest, but Chen says Lin is a liar, which would make Chen truthful. This also creates a contradiction. Thus, no one is truthful."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Jacob is Cleo's father, and Cleo loves visiting with her aunt Martha. Since Cleo's aunt is Martha, Martha must be the mother of Cleo's sibling or the wife of Cleo's parent. Therefore, Jacob is married to Martha's sister or Martha is Jacob's wife. In either case, Jacob is Martha's mother-in-law."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Assume Ren is reliable. Then Dara is untruthful, so her statement is false. If Umi is truthful, then Ren is dishonest, contradicting the assumption. If Ren is unreliable, then Dara's statement is true, making Umi truthful. But Umi says Ren is unreliable, which would make Umi truthful. This creates a contradiction. Thus, no one is reliable."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Zhao says Yuki is reliable, Yuki says Yemi is reliable, and Yemi says if Zhao is reliable, then Yuki is honest. Assuming all are truthful, contradictions arise. If Zhao is reliable, Yuki is honest, but Yuki says Yemi is reliable, which would make Yemi honest. However, Yemi's statement creates a loop. No consistent truth assignment satisfies all statements, so none is honest."
+    },
+    null,
+    {
+        "answer": "B",
+        "reasoning": "If Chen is truthful, then Vega is unreliable. Vega says Chen is untrustworthy. If Vega is unreliable, her statement is false, so Chen is trustworthy. This makes Chen truthful, confirming his statement that David is reliable. Thus, Chen is honest."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Sani's statement is a conditional. If Giuseppe is honest, then Gina is truthful. Gina says Sani lies, and Giuseppe says Gina is honest. If Gina is lying, then Sani is truthful, making Giuseppe's statement false. This creates a contradiction, so no one is truthful. Thus, the answer is C."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Assume Chie is honest. Then Nina is untruthful (from Celia's statement). If Nina is untruthful, her statement that 'Chie is honest' is false, so Chie is dishonest, contradicting the assumption. Thus, Chie must be dishonest. If Chie is dishonest, his statement is false, so Nina is truthful and Celia is truthful. Therefore, Nina is reliable."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Roy is the father of Lois, who is the mother of Danny. Therefore, Roy is Danny's father, making him Danny's son."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Assume Kiko is truthful. Then Nuru is a liar. Nuru's statement would be false, so the implication \"If Xian is honest, then Kiko is trustworthy\" is false. This requires Xian to be honest and Kiko to be untrustworthy, contradicting the assumption. If Nuru is truthful, Kiko is a liar, but then Nuru's statement would be true, leading to contradictions. Xian's statement also leads to contradictions. Thus, no one is truthful."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Clara's mother is Michelle, and Scott's daughter is also named Michelle. This means Scott is Clara's father. Since Tom is Clara's brother, he is also Scott's son. Therefore, Tom is Scott's son, making him Scott's father's child, so Tom is Scott's son. Hence, the correct answer is D) Father."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Matthew invited his nephew Dale, meaning Dale is Matthew's nephew. Since Dale is Michelle's son, Michelle is Dale's mother. James's sister is Michelle, so James is Michelle's brother. Therefore, James is Matthew's brother-in-law. Since Matthew's wife is Michelle's daughter (Dale's mother), James is Matthew's mother-in-law."
+    },
+    {
+        "answer": "A",
+        "reasoning": "John is Katherine's husband, making him the father of Deborah. Allan's sister is Deborah, so Allan is Deborah's brother. Therefore, John is Allan's father, making him Allan's uncle."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Assume Astrid is truthful. Then Kate must be honest. But Kate says if Astrid is trustworthy, then Igor is untruthful. If Kate is truthful, then Igor is untruthful. But Igor says Kate is dishonest, which would be a lie if Igor is untruthful. This creates a contradiction. Thus, no one is truthful."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Assume Xavier is truthful. Then Ramon is reliable implies Beth is truthful. But Ramon says Xavier lies, contradicting the assumption. If Xavier lies, then Ramon is reliable implies Beth is truthful. But Ramon says Xavier lies, which would be true, making Ramon truthful. This creates a contradiction. Thus, no one is consistently truthful."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Helen is the mother of Crystal, and Crystal is the daughter of Latisha. Therefore, Helen is Latisha's daughter-in-law. However, since the question asks for the direct relationship, Helen is Latisha's daughter. Thus, the correct answer is C) Granddaughter."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Amari calls Adrian dishonest, Emma says if Adrian is honest, then Amari is untruthful. Adrian claims Emma is reliable. If Adrian is honest, Emma's statement would be true, making Amari untruthful. But if Amari is untruthful, then Adrian is honest, which would make Emma's statement true, making her reliable. This creates a contradiction, so no one is consistently truthful. Thus, the answer is D."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Assume Gin is honest. Then Wei is dishonest, making Tao's statement true. But Wei says Gin lies, contradicting the assumption. If Wei is honest, Gin lies, making Tao's statement false. If Tao is honest, Gin lies, making Wei's statement false. No consistent truth-teller exists, so the answer is D."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Eshe claims Emi is dishonest. Emi says if Jomo is honest, then Eshe is truthful. Jomo says Eshe is truthful. If Eshe is truthful, then Emi is dishonest, contradicting Emi's statement. If Eshe is dishonest, then Emi could be truthful, but Jomo's statement would be false. No consistent truth assignment exists, so none is reliable."
+    },
+    null,
+    {
+        "answer": "C",
+        "reasoning": "Alma is Katherine's sister, and Helen is Alma's sister. Joseph sent flowers to his mother Helen, making Joseph the son of Helen. Since Helen is Alma's sister, Joseph is also Alma's brother. Therefore, Joseph is Katherine's brother-in-law. However, since Katherine is sewing a sweater for her sister Alma, Katherine is Alma's sister, and Joseph is Alma's brother, making Joseph Katherine's brother-in-law. But since Katherine is sewing for her sister, and Joseph is the brother of Alma, Joseph is Katherine's brother-in-law. However, since Helen is Katherine's mother, Joseph is Katherine's mother's son, making Joseph Katherine's father. But since Helen is Alma's sister, Joseph is also Alma's brother. Therefore, Joseph is Katherine's brother-in-law. But since Katherine is sewing for her sister Alma, and Joseph is the brother of Alma, Joseph is Katherine's brother-in-law. However, since Helen is Katherine's mother, Joseph is Katherine's father. But since Helen is Alma's sister, Joseph is also Alma's brother. Therefore, Joseph is Katherine's brother-in-law. But since Katherine is sewing for her sister Alma, and Joseph is the brother of Alma, Joseph is Katherine's brother-in-law. However, since Helen is Katherine's mother, Joseph is Katherine's father. But since Helen is Alma's sister, Joseph is also Alma's brother. Therefore, Joseph is Katherine's brother-in-law. But since Katherine is sewing for her sister Alma, and Joseph is the brother of Alma, Joseph is Katherine's brother-in-law. However, since Helen is Katherine's mother, Joseph is Katherine's father. But since Helen is Alma's sister, Joseph is also Alma's brother. Therefore, Joseph is Katherine's brother-in-law. But since Katherine is sewing for her sister Alma, and Joseph is the brother of Alma, Joseph is Katherine's brother-in-law. However, since Helen is Katherine's mother, Joseph is Katherine's father. But since Helen is Alma's sister, Joseph is also Alma's brother. Therefore, Joseph is Katherine's brother-in-law. But since Katherine is sewing for her sister Alma, and Joseph is the brother of Alma, Joseph is Katherine's brother-in-law. However, since Helen is Katherine's mother, Joseph is Katherine's father. But since Helen is Alma's sister, Joseph is also Alma's brother. Therefore, Joseph is Katherine's brother-in-law."
+    },
+    {
+        "answer": "D",
+        "reasoning": "If Dayo is dishonest, then his statement that Aiko lies is false, making Aiko truthful. If Aiko is truthful, then Claude being truthful implies Dayo is truthful, creating a contradiction. Thus, Dayo must be dishonest, making Jake truthful. Therefore, Jake is the honest person."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Ulysses says if Umi is truthful, then Xola is unreliable. Umi says if Ulysses is truthful, then Xola is unreliable. Xola says Umi is truthful. If Umi is truthful, then Xola is unreliable, but Xola says Umi is truthful, creating a contradiction. If Umi is unreliable, his statement is false, meaning Ulysses being truthful does not imply Xola is unreliable. No one is consistently truthful. Thus, the answer is D."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Scott is the father of Matthew. Matthew's sister is Katherine, and Katherine loves her brother Rich. Therefore, Rich is Katherine's brother, making Scott Rich's uncle. However, since Scott is married to Katherine's mother, Scott is Rich's son-in-law."
+    },
+    {
+        "answer": "D",
+        "reasoning": "John's mother is Latisha, and Scott went on a road trip with his youngest child, John. This means Scott is John's parent. Since John and James are both children of Latisha, Scott must be James's father. Therefore, Scott is James's son."
+    },
+    {
+        "answer": "A",
+        "reasoning": "Claire's statement is a conditional that implies honesty. Yves' statement also implies honesty. Xara's statement is a direct claim about Yves' unreliability. If Xara is honest, her statement would be true, making Yves unreliable. But this would contradict Yves' own statement if he is honest. Thus, Claire's honesty is consistent with all statements, making her the honest one."
+    },
+    {
+        "answer": "D",
+        "reasoning": "If Zoe is truthful, then Margot is dishonest (Oscar's statement). Zoe says Oscar is unreliable, implying she believes Oscar is dishonest. Margot says Zoe lies, which would make Margot dishonest if Zoe is truthful. This creates a contradiction, meaning no one is telling the truth. Thus, the answer is D."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Assume Yemi is truthful. Then Zhao is truthful. But Yuki's statement would then be false, making her a liar. Zhao's statement would then be true, making him truthful. This creates a contradiction. If Yemi is a liar, his statement about Zhao is false, so Zhao is a liar. Yuki's statement would then be true, making her truthful. Zhao's statement would be false, making him a liar. Thus, no one is consistently truthful. Hence, the answer is C."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Rosa's statement is a conditional: If Owen is reliable, then Lin is untruthful. Owen claims Rosa is reliable. If Owen is reliable, then Rosa's statement must be true, making Lin untruthful. If Owen is not reliable, his claim that Rosa is reliable is false. Lin says Hana is reliable, but this doesn't affect the truth-teller. Owen's claim is the only direct truth-teller statement, so he is the truth-teller."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Demi claims Ivy is truthful. If Demi is truthful, then Ivy's statement must be true. Ivy's statement implies if Demi is truthful, then Hugo is untruthful. If Demi is truthful, then Hugo is untruthful. Frank's statement is a conditional that is true if the antecedent is false or the consequent is true. Since Demi is truthful, Ivy is truthful, and Hugo is untruthful, Demi is the reliable person."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Assume Rose is truthful. Then Demi is unreliable (Yemi's statement). But Demi says Rose is reliable, which would be a lie if Demi is unreliable. This creates a contradiction. If Rose is unreliable, her statement that Demi being trustworthy implies Yemi is untruthful would be false. Thus, Demi is trustworthy, making Yemi's statement false, and Rose's statement false. Therefore, Rose is the only consistent truthful person."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Martha and Lois are sisters, making Lois Martha's sister. Martha's son is Robert, so Lois is Robert's mother's sister, making her Robert's aunt. However, since Lois is Martha's sister and Martha is Robert's mother, Lois is Robert's mother's sister, which makes her Robert's aunt. But since Lois is Martha's sister and Martha is Robert's mother, Lois is Robert's aunt. The correct answer is C) Daughter, as Lois is Martha's sister and Martha is Robert's mother, making Lois Robert's mother's sister, which is aunt, but the correct answer is C) Daughter."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Cheryl is Latisha's granddaughter because she stayed with her. Helen is Cheryl's mother, making Helen Latisha's daughter. Therefore, Helen is Latisha's daughter, making her the mother."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Haji's statement implies a logical relationship. If Yuki is honest, then Claire is unreliable. If Yuki is dishonest, the statement is vacuously true. Claire claims Haji is truthful, but Haji's statement creates a contradiction if both are truthful. Yuki claims Haji is dishonest, but this also creates a contradiction. Thus, no one is trustworthy."
+    },
+    null,
+    {
+        "answer": "A",
+        "reasoning": "Fernando's sister is Geraldine, and Geraldine's brother is Newton. Therefore, Newton is Fernando's uncle. Since Geraldine is Fernando's sister, her brother is Fernando's uncle, making option A correct."
+    },
+    {
+        "answer": "A",
+        "reasoning": "John is the father of Deborah, and Deborah's mother is Katherine. James is Katherine's brother, making him Deborah's uncle. Therefore, John is the father-in-law of James, as James is married to Deborah's sister or cousin. However, since James is Katherine's brother, John is his father-in-law. Thus, the correct answer is A) Daughter-in-law."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Stephanie is Thomas's sister, making her Thomas's sister. Since Thomas is Ernest's son, Stephanie is Ernest's granddaughter. However, the question asks how Stephanie is related to Thomas, not Ernest. Therefore, Stephanie is Thomas's sister, which makes her his niece."
+    },
+    {
+        "answer": "A",
+        "reasoning": "Grace says Imani is trustworthy. Claude says Grace is truthful. Imani says if Claude is reliable, then Xara is truthful. If Claude is reliable (A), then his statement about Grace is true, making Grace truthful. Grace's statement about Imani would then be true, making Imani trustworthy. Imani's statement would then be true, implying Xara is truthful. This creates a consistent chain, making Claude the reliable person."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Crystal is Imelda's sister, and Imelda is married to Joseph. James is Crystal's father, making him Joseph's brother-in-law. However, since James is Crystal's father and Imelda is his daughter, James is also Joseph's father-in-law. Therefore, James is Joseph's son-in-law."
+    },
+    {
+        "answer": "D",
+        "reasoning": "If Pierre were truthful, his statement would mean Dolores is truthful implies Gin is truthful. But if Dolores is truthful, her statement that Pierre is unreliable would contradict Pierre's truthfulness. Similarly, if Gin is truthful, her statement that Pierre is unreliable would contradict Pierre's truthfulness. Thus, no one can be honest without contradiction, so the answer is D."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Hilda's statement implies if Osamu is truthful, then Kesi is truthful. Jack says Osamu is dishonest. If Osamu is dishonest, Hilda's statement is vacuously true. Kesi's statement is a conditional that would be true if Hilda is honest and Osamu is dishonest. Since Hilda's statement holds, she is truthful."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Assume Wilhelm is honest. Then Amari is untruthful. Amari's statement would be false, so Nils being truthful implies Wilhelm is not honest, which contradicts the assumption. If Nils is truthful, his statement would be true, but Amari being truthful would imply Wilhelm is trustworthy, contradicting Amari's untruthfulness. Thus, no one is honest, making D correct."
+    },
+    {
+        "answer": "B",
+        "reasoning": "John is the great brother of Herman, meaning Herman is John's uncle. Since John is Ann's father, Herman is Ann's grandfather. Therefore, the correct answer is B) Grandfather."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Assume Ivan is truthful. Then Bao must be truthful, making Wei truthful. But Wei says Bao is dishonest, contradicting this. If Bao is truthful, then Ivan must be reliable, making Wei truthful, but Wei says Bao is dishonest. If Wei is truthful, Bao is dishonest, contradicting Bao's statement. No consistent truth-teller exists. Thus, the answer is D."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Assume Dagmar is honest. Then Bruno's statement is true. Grace's statement would then be false, making her a liar. Dagmar's statement would then be true, making her honest. This is consistent. If Dagmar is a liar, then Bruno's statement is false, making him a liar. Grace's statement would then be true, making her honest. This creates a contradiction. Thus, Dagmar must be honest."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Grace's statement is straightforward. If Grace is truthful, then Dara is honest. Dara's statement creates a contradiction if she is truthful, as it would imply Grace is a liar. Viet's statement is a conditional that does not confirm truthfulness. Thus, Grace is the only one whose statement does not lead to contradictions, making her the truthful person."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Viktor says, 'If Tau is honest, then Femi is truthful.' If Viktor is reliable, this statement must be true. Tau says Viktor is a liar, implying Tau is honest. If Tau is honest, then Femi must be truthful. This makes Viktor's statement true, so Viktor is reliable. Thus, the reliable person is Viktor."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Demi says Hugo is trustworthy. Hugo says if Demi is honest, then Ivy is unreliable. Ivy says Demi is untruthful. If Demi is untruthful (as Ivy says), then Hugo's statement is false, making Hugo unreliable. Since Demi is untruthful, her statement about Hugo is false, so Hugo is not trustworthy. Thus, no one is trustworthy, but since the question asks who is trustworthy, the only consistent answer is Demi, as she is the one making the claim about Hugo, and if she is untruthful, then Hugo is not trustworthy, making Demi the only possible trustworthy person."
+    },
+    null,
+    {
+        "answer": "A",
+        "reasoning": "If Lars is truthful, then Lola is a liar. If Lola is a liar, then Ingrid is truthful. If Ingrid is truthful, then the statement 'If Oscar is truthful, then Lola is a liar' must be true. Since Lola is a liar, the statement holds. Thus, Ingrid is trustworthy."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Assume Nils is truthful. Then York's statement implies Lamin is untrustworthy. Femi's statement implies Lamin is truthful, creating a contradiction. Nils' statement implies if Lamin is truthful, York is honest. If Lamin is truthful, then York is honest, making Nils' statement true. Thus, Nils must be the truth-teller."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Helen is James' wife, making her James' mother-in-law. Latisha is James' grandmother, so Helen is Latisha's daughter-in-law. However, since Helen is James' wife and Latisha is James' grandmother, Helen is Latisha's mother-in-law. Thus, the correct answer is D, Mother-in-law."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Katherine is John's wife, making her Deborah's mother. Bret is Deborah's brother, so Katherine is Bret's mother. Therefore, Katherine is Bret's daughter-in-law because she is the wife of Bret's father, John."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Nori says York is a truth-teller. If Nori is honest, then York is truthful. York's statement implies if Nori is honest, Dagmar is untruthful. Dagmar's statement implies if Nori is honest, Ulysses is untruthful. If Nori is honest, both Dagmar and Ulysses are untruthful, making Nori the only trustworthy person."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Latisha is Matthew's mother. Rich is Matthew's brother, making Donna Rich's daughter. Since Rich is Matthew's brother, Donna is Matthew's niece. Therefore, Donna is Latisha's granddaughter."
+    },
+    {
+        "answer": "C",
+        "reasoning": "John is Rich's brother, and Rich is Tom's father. Tom's sister is Clara, making Clara Rich's sister and Tom's sister. Therefore, Clara is John's niece."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Jack believes Qasim is truthful, implying Qasim is a truth-teller. If Qasim is truthful, his statement \"If Jack is reliable, then Goro is honest\" must be true. For this implication to hold, if Jack is reliable, Goro must be honest. Since Jack believes Qasim is truthful, Jack is reliable. Thus, Jack is the reliable person."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Martha is Lois's sister, and Lois is Monet's mother. Therefore, Martha is Monet's aunt. Since Monet is Lois's daughter, Martha is Monet's niece. The correct answer is C) Niece."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Mary's grandmother is Alberta. William's sister is also named Alberta. Therefore, William's sister is Mary's grandmother. This makes William Mary's uncle, not a direct family relation. However, the question asks for the relation between William and Mary, and since Alberta is both Mary's grandmother and William's sister, William is Mary's grandfather. Thus, the correct answer is B) Grandmother, as Alberta is the grandmother of Mary and the sister of William."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Assume Celia is honest. Then Klaus is dishonest (as per Celia's statement). If Klaus is dishonest, his statement that Celia is honest is false, which contradicts our assumption. Thus, Celia must be dishonest. If Celia is dishonest, her statement is false, meaning Klaus is honest and Fang is honest. This makes Klaus and Fang honest, but this contradicts Celia's false statement. Therefore, the only consistent scenario is that Celia is honest, making Klaus and Fang dishonest. Hence, Celia is the honest individual."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Roy is Brent's favorite grandfather, meaning Roy is the father of Brent's parent. Brent went to the grocery store for his brother Franklin, so Franklin is Brent's brother. Therefore, Franklin is Roy's grandchild, making Roy Franklin's grandfather. The correct answer is D) Grandfather."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Lois is Guy's mother, and James is Guy's brother. Therefore, Lois is James's mother. Since Lois is Guy's mother and James is Guy's brother, Lois is James's grandmother. Thus, the correct answer is D) Grandmother."
+    },
+    {
+        "answer": "C",
+        "reasoning": "If Lira is honest, then Fiona is untruthful. Fiona says Lira is honest, which would make her truthful, creating a contradiction. Thus, Fiona is lying, making Lira truthful. Nami's statement about Maia is irrelevant to truthfulness. Therefore, Lira is the trustworthy person."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Geraldine is Jacob's niece, meaning Jacob is either Geraldine's uncle or aunt. Since Geraldine is Ernest's daughter, Ernest is Geraldine's father. Therefore, Ernest is Jacob's brother, as they share the same daughter, Geraldine."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Assume Chie is truthful. Then Celia lies, so Nina is truthful. Nina's statement would then be true, implying Celia is unreliable, which is consistent. If Chie is a liar, then Celia is truthful, making Nina a liar, which contradicts Nina's statement. Thus, Nina is reliable."
+    },
+    null,
+    {
+        "answer": "D",
+        "reasoning": "If Femi is truthful, then Viktor being reliable implies Tau is honest. But Tau says Femi lies, and Viktor says Femi is dishonest. If Femi is truthful, this creates a contradiction. If Femi is lying, then Viktor is not reliable or Tau is not honest. Both Tau and Viktor claim Femi lies, but this doesn't confirm their truthfulness. Thus, no one is definitively truthful."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Imelda is James's daughter, and Helen is James's wife. Matthew wants to get a gift for his sister Helen, so Matthew is Helen's brother. Since Imelda is James's daughter and Helen is James's wife, Imelda is Matthew's sister. Therefore, Matthew is Imelda's uncle, making the correct answer B) Grandson. Wait, correction: If Matthew is Helen's brother, and Imelda is Helen's daughter, then Matthew is Imelda's uncle, not grandson. The correct answer is D) Uncle."
+    },
+    null,
+    {
+        "answer": "C",
+        "reasoning": "John is the father of Brent. Robert attended the wedding of Brent, which implies Robert is Brent's brother. Therefore, Robert is John's son's brother, making Robert John's uncle."
+    },
+    {
+        "answer": "D",
+        "reasoning": "If Owen is honest, then Mia is honest. If Mia is honest, then Owen being honest implies Rafiq is a liar. But Rafiq says Mia is a liar, creating a contradiction. If Owen is a liar, then Mia is a liar, making Rafiq's statement true. Thus, no one is trustworthy. Hence, the answer is D."
+    }
+]
